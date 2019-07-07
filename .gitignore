@@ -1,0 +1,15 @@
+
+### Maven
+target/
+
+# IntelliJ project files
+.idea
+*.iml
+.DS_Store
+.project
+
+#VS code
+.settings
+
+.ijwb/
+swagger.json
